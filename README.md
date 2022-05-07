@@ -58,23 +58,59 @@ which consists of everything needed for this project.
 ![image](https://user-images.githubusercontent.com/19898602/130772271-a807adda-9927-4507-b895-a0143ef81661.png)![image](https://user-images.githubusercontent.com/19898602/130772311-bb9de207-b8f9-450d-ad32-cd0e22e77967.png)
 ![image](https://user-images.githubusercontent.com/19898602/130772326-6379a2f2-9b91-4fce-b0f3-860f7b17f136.png)
 
+
+
+complete detail of the PCB you can find here :- https://oshwlab.com/sharmaz747/record-and-play-robotic-arm
+
+
 I have try to build this circuit on bread-board and Zero PCB but all are fail because this option are not reliable,
 
 this project is very sensitive to the value of potentiometer so I am not able to get the desire result I have fail so many times.
 
 but Then I think about to try Custom PCB but my belief for PCB's are they must be so expensive but all of my fear was gone when I found [JLCPCB.com](https://jlcpcb.com/IAT)
-really they are offering Quality PCB in very affordable rates, if you are also hesitate to try custom PCB just because you think they are very costly I will tell you don't wait now just visit [JLCPCB.com](https://jlcpcb.com/IAT)
+really they are offering Quality PCB in very affordable rates, if you are also hesitate to try custom PCB just because you think they are very costly I will tell you don't wait just visit [JLCPCB.com](https://jlcpcb.com/IAT)
 
 
-I always prefer [JLCPCB.com](https://jlcpcb.com/IAT) for my PCB needs, [JLCPCB.com](https://jlcpcb.com/IAT) have best deals for their customers
-$2 for 1-4 Layer PCBs, free SMT assembly monthly.
+If you seriously need quality PCB quickly in your hand then you must have to try JLCPCB PCB manufacturing service. They have Special offer of $2 for 1-4 Layer PCBs, free SMT assembly monthly. If new user signup today from this link [JLCPCB.com](https://jlcpcb.com/IAT) you will get welcome coupons from JLCPCB.
 
 
-and this is not it if you are new customer for [JLCPCB.com](https://jlcpcb.com/IAT) you will get 18$ coupon on your
-first registration to their site its limited period offer so what are waiting for go  and get your benefit. 
+![image](https://user-images.githubusercontent.com/19898602/159014034-3c9a50c3-61c3-40d2-836d-9cadc2317d33.png)
+![image](https://user-images.githubusercontent.com/19898602/164385177-de123350-4a1f-4d0f-9f38-68ed7dbd5a9f.png)
 
 
-[Click here to visit JLCPCB.com](https://jlcpcb.com/IAT)
+
+SMT Assembly service of [JLCPCB.com](https://jlcpcb.com/IAT) is cherry on top now get your PCB fully assembled and save your time and money
+Select components for your PCB from there Parts Library of 200k+ in-stock components
+they are offering $30 valued New User coupons  & $24 SMT coupons every month
+$8.00 setup fee, and $0.0017  per joint
+
+Now no need to order components separately for you PCB and get free from stress of soldering them on PCB just try PCB SMT assembly service and get you PCB with components pre assembled and ready for the project
+
+
+👉 Try PCBA service of [JLCPCB.com](https://jlcpcb.com/IAT) and save your time and money, get PCB ready for project, 200K+ components in library of [JLCPCB.com](https://jlcpcb.com/IAT) as well as 3rd party         parts to choose from. 
+    Assembly will support 10M+ parts from Digikey, mouser
+    
+👉 $30 valued New User coupons 
+
+👉 $24 SMT coupons every month
+
+
+For more detials & offers please visit [JLCPCB.com](https://jlcpcb.com/IAT)
+
+
+
+* Follow the simple step to get this PCB board.
+
+1 - Download the circuit board Gerber file: https://oshwlab.com/sharmaz747/record-and-play-robotic-arm
+
+2 - Create an account using the link below: [JLCPCB.com](https://jlcpcb.com/IAT)
+
+3 - visit [JLCPCB.com](https://jlcpcb.com/IAT) Add the Gerber file and place the order. 
+
+
+
+
+
 
 
 
