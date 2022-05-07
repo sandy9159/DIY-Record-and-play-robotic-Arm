@@ -45,6 +45,13 @@ which consists of everything needed for this project.
 
 # CIRCUIT DIAGRAM AND CUSTOM PCB
 ![image](https://user-images.githubusercontent.com/19898602/130772051-8030b6eb-8019-450d-9ea7-c984b783eb11.png)
+
+![image](https://user-images.githubusercontent.com/19898602/167264479-134e7a7e-51a2-4766-8a65-b78b5730759b.png)
+![image](https://user-images.githubusercontent.com/19898602/167264487-aa11716a-adf2-45b0-85e8-a3834db3ed82.png)
+![image](https://user-images.githubusercontent.com/19898602/167264501-196ed604-b8c9-4456-8a60-129bff322cdb.png)
+
+
+
 ![MVI_0001 00_04_10_14 Still001](https://user-images.githubusercontent.com/19898602/130772398-7baab1e9-dfee-462f-a429-2a9d01c8fd55.jpg)
 
 
